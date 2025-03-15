@@ -23,7 +23,7 @@ ps:如果你看见的是“你需要登陆才可以游戏，请直接输入帐�
 # 登陆
 -如果你重新进入生存斧时如果无法移动和眼前是黑的请输入你的帐户密码
 # 【-------English-------】
-#Preparation for Registering a Survival Axe Account
+# Preparation for Registering a Survival Axe Account
 A QQ email or QQ number
 # Registration
 ***Fill in your QQ email (if you have a QQ number, you can use the following method)***
